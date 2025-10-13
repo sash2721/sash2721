@@ -104,5 +104,5 @@
 </p>
 
 <h3>📊 GitHub Stats: </h3>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sash2721&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sash2721&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sash2721&show_icons=true&locale=en&theme=tokyonight" alt="sash2721" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sash2721&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sash2721" /></p>
