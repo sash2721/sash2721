@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)](https://sahilshah.io)
 <h1 align="center">Hello World👋, This is Sahil Shah</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sash-21&label=Profile%20views&color=0e75b6&style=flat" alt="sash-21" /> </p>
 
 - 🔭 I’m currently working as a **Software Engineer** at <a href="https://www.cloudanix.com/">Cloudanix</a>
@@ -105,4 +105,9 @@
 
 <h3>📊 GitHub Stats: </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sash2721&theme=tokyonight&hide_border=false" alt="sash2721" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sash2721&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sash2721" /></p>
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+
+![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
+
+</center>
